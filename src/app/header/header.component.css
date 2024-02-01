@@ -6,7 +6,7 @@
   border-bottom: #e5e4e2 1.5px solid;
 }
 
-.ekart-logo {
+.ekart--logo {
   padding: 1.2vh 8vh;
   font-size: 40px;
   font-weight: bold;
@@ -26,7 +26,7 @@
   padding-bottom: 15px;
   padding-right: 30px;
 }
-.ekart-menu {
+.ekart--menu {
   padding-top: 2vh;
   padding: 1vh 1vh;
   color: #36454f;
@@ -42,7 +42,7 @@
 .ekart--search-bar {
   padding: 0 3vh;
 }
-.ekart-search-box {
+.ekart--search--box {
   width: 170px;
   height: 33px;
   border: none;
